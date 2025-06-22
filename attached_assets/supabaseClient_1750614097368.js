@@ -1,0 +1,1 @@
+// Supabase config using env variables

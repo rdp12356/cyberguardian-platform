@@ -1,0 +1,1 @@
+// Home page with animations and layout
